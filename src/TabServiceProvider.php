@@ -1,11 +1,11 @@
 <?php
 
-namespace :namespace_vendor\:namespace_tab_name;
+namespace VoidGraphics\CatTab;
 
 use Facade\Ignition\Ignition;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;
-use :namespace_vendor\:namespace_tab_name\Http\Middleware\Authorize;
+use VoidGraphics\CatTab\Http\Middleware\Authorize;
 
 class TabServiceProvider extends ServiceProvider
 {
@@ -33,7 +33,7 @@ class TabServiceProvider extends ServiceProvider
             return;
         }
 
-        Route::prefix('ignition-vendor/:vendor/:package_name')
+        Route::prefix('ignition-vendor/voidgraphics/ignition-cat')
                 ->group(__DIR__.'/../routes/api.php');
     }
 

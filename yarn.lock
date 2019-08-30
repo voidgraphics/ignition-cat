@@ -84,10 +84,6 @@ amdefine@>=0.0.4:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/amdefine/-/amdefine-1.0.1.tgz#4a5282ac164729e93619bcfd3ad151f817ce91f5"
 
-animated-scroll-to@^1.2.2:
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/animated-scroll-to/-/animated-scroll-to-1.2.2.tgz#d6688e72f3ecec1a296fc2b36fe29290e7fff694"
-
 ansi-gray@^0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/ansi-gray/-/ansi-gray-0.1.1.tgz#2962cf54ec9792c48510a3deb524436861ef7251"

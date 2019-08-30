@@ -1,3 +1,3 @@
 Ignition.registerTab((Vue) => {
-    Vue.component(':package_name', require('./components/Tab'))
+    Vue.component('ignition-cat', require('./components/Tab'))
 });
