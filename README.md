@@ -1,15 +1,11 @@
 
-# A package for Ignition that shows a random picture of a cat to calm you down
+# Because the internet started with cats...
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/voidgraphics/ignition-cat.svg?style=flat-square)](https://packagist.org/packages/voidgraphics/ignition-cat)
-[![Build Status](https://img.shields.io/travis/voidgraphics/ignition-cat/master.svg?style=flat-square)](https://travis-ci.org/voidgraphics/ignition-cat)
-[![Quality Score](https://img.shields.io/scrutinizer/g/voidgraphics/ignition-cat.svg?style=flat-square)](https://scrutinizer-ci.com/g/voidgraphics/ignition-cat)
-[![Total Downloads](https://img.shields.io/packagist/dt/voidgraphics/ignition-cat.svg?style=flat-square)](https://packagist.org/packages/voidgraphics/ignition-cat)
+Humor me for a minute. You've been debugging this critical problem for hours, your client is spamming your e-mail and it is now 4:32 in the morning. Your client really should go to sleep and leave you alone, but there they are. And so are you.
 
+You need a cat gif. You're welcome.
 
-This is where your description should go. Try and limit it to a paragraph or two.
-
-Add a screenshot of the tab here.
+![ignition-cat in action](./capture.png)
 
 ## Installation
 
